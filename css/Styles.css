@@ -1,0 +1,8 @@
+body{ font-family: cursive; 
+    color: darkolivegreen;
+    background-image: url(../images/leaf\ background.jpeg);}
+li{text-decoration: normal;}
+.headings{text-decoration: underline;}
+.normal{text-decoration: normal;}
+a:hover{font-size: larger;}
+a:visited{color: rgb(83, 52, 36);}
